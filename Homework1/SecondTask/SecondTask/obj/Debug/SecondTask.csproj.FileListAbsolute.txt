@@ -1,0 +1,8 @@
+C:\Users\anxismore\source\repos\SecondTask\SecondTask\obj\Debug\SecondTask.csproj.AssemblyReference.cache
+C:\Users\anxismore\source\repos\SecondTask\SecondTask\obj\Debug\SecondTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\anxismore\source\repos\SecondTask\SecondTask\obj\Debug\SecondTask.csproj.CoreCompileInputs.cache
+C:\Users\anxismore\source\repos\SecondTask\SecondTask\bin\Debug\SecondTask.exe.config
+C:\Users\anxismore\source\repos\SecondTask\SecondTask\bin\Debug\SecondTask.exe
+C:\Users\anxismore\source\repos\SecondTask\SecondTask\bin\Debug\SecondTask.pdb
+C:\Users\anxismore\source\repos\SecondTask\SecondTask\obj\Debug\SecondTask.exe
+C:\Users\anxismore\source\repos\SecondTask\SecondTask\obj\Debug\SecondTask.pdb

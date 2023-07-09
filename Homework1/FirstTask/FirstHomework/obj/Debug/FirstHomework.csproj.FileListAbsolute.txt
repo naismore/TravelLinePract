@@ -1,0 +1,8 @@
+C:\Users\anxismore\source\repos\FirstHomework\FirstHomework\bin\Debug\FirstHomework.exe.config
+C:\Users\anxismore\source\repos\FirstHomework\FirstHomework\bin\Debug\FirstHomework.exe
+C:\Users\anxismore\source\repos\FirstHomework\FirstHomework\bin\Debug\FirstHomework.pdb
+C:\Users\anxismore\source\repos\FirstHomework\FirstHomework\obj\Debug\FirstHomework.csproj.AssemblyReference.cache
+C:\Users\anxismore\source\repos\FirstHomework\FirstHomework\obj\Debug\FirstHomework.csproj.SuggestedBindingRedirects.cache
+C:\Users\anxismore\source\repos\FirstHomework\FirstHomework\obj\Debug\FirstHomework.csproj.CoreCompileInputs.cache
+C:\Users\anxismore\source\repos\FirstHomework\FirstHomework\obj\Debug\FirstHomework.exe
+C:\Users\anxismore\source\repos\FirstHomework\FirstHomework\obj\Debug\FirstHomework.pdb
