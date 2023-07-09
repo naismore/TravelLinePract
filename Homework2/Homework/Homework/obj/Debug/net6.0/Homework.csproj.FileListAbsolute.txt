@@ -1,0 +1,5 @@
+C:\Users\anxismore\source\repos\Homework\Homework\obj\Debug\net6.0\Homework.csproj.AssemblyReference.cache
+C:\Users\anxismore\source\repos\Homework\Homework\obj\Debug\net6.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anxismore\source\repos\Homework\Homework\obj\Debug\net6.0\Homework.AssemblyInfoInputs.cache
+C:\Users\anxismore\source\repos\Homework\Homework\obj\Debug\net6.0\Homework.AssemblyInfo.cs
+C:\Users\anxismore\source\repos\Homework\Homework\obj\Debug\net6.0\Homework.csproj.CoreCompileInputs.cache
