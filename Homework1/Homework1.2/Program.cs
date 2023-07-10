@@ -10,25 +10,26 @@ namespace Homework1._2
     {
         static void Main(string[] args)
         {
-            int[] intarray = new int[] { 2, 13, 14, 1241, 142, 412, 5, 12 };
-            
+            int[] array = new int[] { 2, 13, 14, 1241, 142, 412, 5, 12 };
+
             Console.Write("Исходный массив: { ");
-            foreach (int i in intarray)
-            {
-                Console.Write($"{i} ");
-            }
+            PrintArray(array);
             Console.WriteLine("}");
 
+            BubbleSort(array);
 
-            BubbleSort(intarray);
             Console.Write("Отсортированный массив: { ");
-            foreach (int i in intarray)
-            {
-                Console.Write($"{i} ");
-            }
             Console.WriteLine("}");
 
             Console.ReadKey();
+        }
+
+        public static void PrintArray(int[] array)
+        {
+            foreach (int i in array)
+            {
+                Console.Write($"{i} ");
+            }
         }
 
         public static int[] BubbleSort(int[] array)

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Homework1
+namespace Homework
 {
-    internal class Task1
+    internal partial class Task
     {
         static void Main(string[] args)
         {
@@ -22,19 +22,6 @@ namespace Homework1
             Console.WriteLine();
             person.WriteInfo();
             Console.ReadKey();
-        }
-
-        struct Person
-        {
-            public string name;
-            public int age;
-            public string email;
-            public string githubLink;
-
-            public void WriteInfo()
-            {
-                Console.WriteLine($"ФИО: {name}\n  Возраст: {age}\n  Email: {email}\n  Github: {githubLink}");
-            }
         }
     }
 }
