@@ -1,0 +1,13 @@
+C:\Users\anxismore\source\repos\MySQL\MySQL\bin\Debug\MySQL.exe.config
+C:\Users\anxismore\source\repos\MySQL\MySQL\bin\Debug\MySQL.exe
+C:\Users\anxismore\source\repos\MySQL\MySQL\bin\Debug\MySQL.pdb
+C:\Users\anxismore\source\repos\MySQL\MySQL\bin\Debug\EntityFramework.dll
+C:\Users\anxismore\source\repos\MySQL\MySQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anxismore\source\repos\MySQL\MySQL\bin\Debug\EntityFramework.xml
+C:\Users\anxismore\source\repos\MySQL\MySQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anxismore\source\repos\MySQL\MySQL\obj\Debug\MySQL.csproj.AssemblyReference.cache
+C:\Users\anxismore\source\repos\MySQL\MySQL\obj\Debug\MySQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\anxismore\source\repos\MySQL\MySQL\obj\Debug\MySQL.csproj.CoreCompileInputs.cache
+C:\Users\anxismore\source\repos\MySQL\MySQL\obj\Debug\MySQL.csproj.CopyComplete
+C:\Users\anxismore\source\repos\MySQL\MySQL\obj\Debug\MySQL.exe
+C:\Users\anxismore\source\repos\MySQL\MySQL\obj\Debug\MySQL.pdb
